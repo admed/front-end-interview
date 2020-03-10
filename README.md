@@ -18,7 +18,14 @@ W katalogu [designs](./designs) znajdziesz 3 obrazki przedstawiające interfejs.
 - Pojedyńcze kliknięcie w lewą górną ikonę menu (3 poziome linie) otwiera lewe menu z tekstami, (plik ***template2.png***)
   - ponowne kliknięcie przywraca wąski widok pokazujący same ikony (plik ***template1.png***)
 - Kliknięcie w dowolny wiersz w tabeli otwiera prawe menu ze szczegółami obiektu (plik ***template3.png***)
+  - Sekcja Files nie jest wymagana (można pominąć)
   - Kliknięcie przycisku x w szczegółach obiektu zamyka widok szczegółów i przywraca widok z pliku (plik ***template1.png***)
+  
+### Zadanie dodatkowe (nie wymagane)
+
+- Sprawdzić poprawność dołączonych dwóch plików .json
+- Wczytać dane do tabeli z pliku data.json
+- Wczytać dane wyświetlane w szczegółach z pliku data_details.json
 
 ### Wysyłanie
 
