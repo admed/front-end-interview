@@ -24,8 +24,8 @@ W katalogu [designs](./designs) znajdziesz 3 obrazki przedstawiające interfejs.
 ### Zadanie dodatkowe (nie wymagane)
 
 - Sprawdzić poprawność dołączonych dwóch plików .json
-- Wczytać dane do tabeli z pliku data.json
-- Wczytać dane wyświetlane w szczegółach z pliku data_details.json
+- Wczytać dane do tabeli z pliku ***data.json***
+- Wczytać dane wyświetlane w szczegółach z pliku ***data_details.json***
 
 ### Wysyłanie
 
