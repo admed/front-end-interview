@@ -12,8 +12,13 @@ W katalogu [designs](./designs) znajdziesz 3 obrazki przedstawiające interfejs.
 
 ### Wymagania 
 
-- Szablon odworowany wg pliku ***template1.png***
-- Ikony dowolne nie muszą zgadzać się z tymi z szablonu (Jeżeli to ułatwi polecam wykorzystanie darmowego zestawu z [fontawesome](https://fontawesome.com/)
+- Szablon odwzorowany wg pliku ***template1.png***
+- Ikony dowolne nie muszą zgadzać się z tymi z szablonu 
+  - Jeżeli to ułatwi zadanie polecam wykorzystanie darmowego zestawu z [fontawesome](https://fontawesome.com/)
+- Pojedyńcze kliknięcie w lewą górną ikonę menu (3 poziome linie) otwiera lewe menu z tekstami, (plik ***template2.png***)
+  - ponowne kliknięcie przywraca wąski widok pokazujący same ikony (plik ***template1.png***)
+- Kliknięcie w dowolny wiersz w tabeli otwiera prawe menu ze szczegółami obiektu (plik ***template3.png***)
+  - Kliknięcie przycisku x w szczegółach obiektu zamyka widok szczegółów i przywraca widok z pliku (plik ***template1.png***)
 
 ### Wysyłanie
 
