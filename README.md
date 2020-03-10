@@ -12,7 +12,12 @@ W katalogu [designs](./designs) znajdziesz 3 obrazki przedstawiające interfejs.
 
 ### Wymagania 
 
-- Szablon odwzorowany wg pliku ***template1.png***
+- Przygotować szablon podobny do tego w pliku ***template1.png***
+- Szablon nie musi zostać dokładnie odwzorowany graficznie, bardziej chodzi o sam koncept tj.:
+  - Należy odtworzyć layaut zawierający panel po lewej stronie
+  - Tabelą po środku strony
+  - Menu szczegółów po prawej.
+- Można pominąć szczegółowe elementy formatowania takie jaki formatowanie nagłówka tabeli po liknięciu czy zmiany ikony dla sortowania w tabeli, czy formatowanie tekstu i kształtów, wyróżnienia kolorem aktywnego menu po lewej stronie.
 - Ikony dowolne nie muszą zgadzać się z tymi z szablonu 
   - Jeżeli to ułatwi zadanie polecam wykorzystanie darmowego zestawu z [fontawesome](https://fontawesome.com/)
 - Pojedyńcze kliknięcie w lewą górną ikonę menu (3 poziome linie) otwiera lewe menu z tekstami, (plik ***template2.png***)
