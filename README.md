@@ -14,7 +14,7 @@ W katalogu [designs](./designs) znajdziesz 3 obrazki przedstawiające interfejs.
 
 - Przygotować szablon podobny do tego w pliku ***template1.png***
 - Szablon nie musi zostać dokładnie odwzorowany graficznie, bardziej chodzi o sam koncept tj.:
-  - Należy odtworzyć layaut zawierający panel po lewej stronie
+  - Należy odtworzyć layout zawierający panel po lewej stronie
   - Tabelą po środku strony
   - Menu szczegółów po prawej.
 - Można pominąć szczegółowe elementy formatowania takie jaki formatowanie nagłówka tabeli po liknięciu czy zmiany ikony dla sortowania w tabeli, czy formatowanie tekstu i kształtów, wyróżnienia kolorem aktywnego menu po lewej stronie.
